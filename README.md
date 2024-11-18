@@ -7,8 +7,7 @@
 - 💬 Ask me about Biostatistics
 - 📫 How to reach me: nmejia@cic.unam.mx
 
-[Personal site](https://pages.github.com/](https://sites.google.com/view/biostatisticsrai-unam/bioestadística-en-ciencias-médicas-y-biológicas?authuser=0)
-
+[Personal site](https://pages.github.com/](https://sites.google.com/view/biostatisticsrai-unam/bioestadística-en-ciencias-médicas-y-biológicas?authuser=0 )
 <!--
 **nancymejiad/nancymejiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
